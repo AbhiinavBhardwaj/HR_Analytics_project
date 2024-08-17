@@ -2,6 +2,7 @@
 Author -Abhinav Bhardwaj
 
 HR Analytics Project
+
 Overview
 This project focuses on analyzing employee attrition data to uncover key factors driving employee turnover. The insights derived from the analysis are visualized using a Power BI dashboard, providing actionable intelligence for HR teams.
 
